@@ -1,0 +1,10 @@
+{
+    "paymentInformationPixQrCode.scanQrCode": "Escaneie o código QR com seu telefone ou copie e cole o código.",
+    "paymentInformationPixQrCode.paymentMethod": "Método de Pagamento",
+    "paymentInformationPixQrCode.openInApp": "Abra o aplicativo do seu banco no seu telefone, escolha Pix e aponte a câmera para o código QR.",
+    "paymentInformationPixQrCode.digitableLine": "Linha Digitável",
+    "paymentInformationPixQrCode.copied": "Copiado!",
+    "paymentInformationPixQrCode.copy": "Copiar",
+    "paymentInformationPixQrCode.instructionsTitle": "Instruções após o pagamento ser realizado",
+    "pixQrCode.paymentType": "Pix"
+}
